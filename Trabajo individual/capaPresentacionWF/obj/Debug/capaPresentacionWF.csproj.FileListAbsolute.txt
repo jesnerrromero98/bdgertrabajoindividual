@@ -15,3 +15,23 @@ C:\Users\Elkin Maltez\source\repos\Ejemplo_ProgramacionBD\capaPresentacionWF\obj
 C:\Users\Elkin Maltez\source\repos\Ejemplo_ProgramacionBD\capaPresentacionWF\obj\Debug\capaPresentacionWF.csproj.CopyComplete
 C:\Users\Elkin Maltez\source\repos\Ejemplo_ProgramacionBD\capaPresentacionWF\obj\Debug\capaPresentacionWF.exe
 C:\Users\Elkin Maltez\source\repos\Ejemplo_ProgramacionBD\capaPresentacionWF\obj\Debug\capaPresentacionWF.pdb
+C:\Users\Jesner romero\Pictures\ProgramcionBaseDato\PRODB\Trabajo individual\capaPresentacionWF\bin\Debug\capaPresentacionWF.exe.config
+C:\Users\Jesner romero\Pictures\ProgramcionBaseDato\PRODB\Trabajo individual\capaPresentacionWF\bin\Debug\capaPresentacionWF.exe
+C:\Users\Jesner romero\Pictures\ProgramcionBaseDato\PRODB\Trabajo individual\capaPresentacionWF\bin\Debug\capaPresentacionWF.pdb
+C:\Users\Jesner romero\Pictures\ProgramcionBaseDato\PRODB\Trabajo individual\capaPresentacionWF\bin\Debug\CapaEntidades.dll
+C:\Users\Jesner romero\Pictures\ProgramcionBaseDato\PRODB\Trabajo individual\capaPresentacionWF\bin\Debug\CapaNegocio.dll
+C:\Users\Jesner romero\Pictures\ProgramcionBaseDato\PRODB\Trabajo individual\capaPresentacionWF\bin\Debug\CapaDatos.dll
+C:\Users\Jesner romero\Pictures\ProgramcionBaseDato\PRODB\Trabajo individual\capaPresentacionWF\bin\Debug\CapaEntidades.pdb
+C:\Users\Jesner romero\Pictures\ProgramcionBaseDato\PRODB\Trabajo individual\capaPresentacionWF\bin\Debug\CapaNegocio.pdb
+C:\Users\Jesner romero\Pictures\ProgramcionBaseDato\PRODB\Trabajo individual\capaPresentacionWF\bin\Debug\CapaDatos.pdb
+C:\Users\Jesner romero\Pictures\ProgramcionBaseDato\PRODB\Trabajo individual\capaPresentacionWF\obj\Debug\capaPresentacionWF.csprojAssemblyReference.cache
+C:\Users\Jesner romero\Pictures\ProgramcionBaseDato\PRODB\Trabajo individual\capaPresentacionWF\obj\Debug\capaPresentacionWF.fRecursos.resources
+C:\Users\Jesner romero\Pictures\ProgramcionBaseDato\PRODB\Trabajo individual\capaPresentacionWF\obj\Debug\capaPresentacionWF.Properties.Resources.resources
+C:\Users\Jesner romero\Pictures\ProgramcionBaseDato\PRODB\Trabajo individual\capaPresentacionWF\obj\Debug\capaPresentacionWF.csproj.GenerateResource.cache
+C:\Users\Jesner romero\Pictures\ProgramcionBaseDato\PRODB\Trabajo individual\capaPresentacionWF\obj\Debug\capaPresentacionWF.csproj.CoreCompileInputs.cache
+C:\Users\Jesner romero\Pictures\ProgramcionBaseDato\PRODB\Trabajo individual\capaPresentacionWF\obj\Debug\capaPresentacionWF.csproj.CopyComplete
+C:\Users\Jesner romero\Pictures\ProgramcionBaseDato\PRODB\Trabajo individual\capaPresentacionWF\obj\Debug\capaPresentacionWF.exe
+C:\Users\Jesner romero\Pictures\ProgramcionBaseDato\PRODB\Trabajo individual\capaPresentacionWF\obj\Debug\capaPresentacionWF.pdb
+C:\Users\Jesner romero\Pictures\ProgramcionBaseDato\PRODB\Trabajo individual\capaPresentacionWF\obj\Debug\capaPresentacionWF3.fComentario.resources
+C:\Users\Jesner romero\Pictures\ProgramcionBaseDato\PRODB\Trabajo individual\capaPresentacionWF\obj\Debug\capaPresentacionWF4.fCuenta.resources
+C:\Users\Jesner romero\Pictures\ProgramcionBaseDato\PRODB\Trabajo individual\capaPresentacionWF\obj\Debug\capaPresentacionWF5.fUsuario.resources

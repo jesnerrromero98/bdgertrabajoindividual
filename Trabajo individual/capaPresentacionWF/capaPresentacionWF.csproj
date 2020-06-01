@@ -46,16 +46,61 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Fcuenta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fcuenta.Designer.cs">
+      <DependentUpon>Fcuenta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Fcomentario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fcomentario.Designer.cs">
+      <DependentUpon>Fcomentario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fsolicitud.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fsolicitud.Designer.cs">
+      <DependentUpon>fsolicitud.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FUsuario.Designer.cs">
+      <DependentUpon>FUsuario.cs</DependentUpon>
+    </Compile>
     <Compile Include="fRecursos.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="fRecursos.Designer.cs">
       <DependentUpon>fRecursos.cs</DependentUpon>
     </Compile>
+    <Compile Include="MDIRecursos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MDIRecursos.Designer.cs">
+      <DependentUpon>MDIRecursos.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Fcuenta.resx">
+      <DependentUpon>Fcuenta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fcomentario.resx">
+      <DependentUpon>Fcomentario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fsolicitud.resx">
+      <DependentUpon>fsolicitud.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FUsuario.resx">
+      <DependentUpon>FUsuario.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="fRecursos.resx">
       <DependentUpon>fRecursos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MDIRecursos.resx">
+      <DependentUpon>MDIRecursos.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

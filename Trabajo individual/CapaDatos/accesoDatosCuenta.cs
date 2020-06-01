@@ -30,7 +30,8 @@ namespace CapaDatos
                 cm.Parameters.AddWithValue("@idcuenta", "");
                 cm.Parameters.AddWithValue("@nombreuser", ct.nombreuser);
                 cm.Parameters.AddWithValue("@clave", ct.clave);
-                
+               // cm.Parameters.AddWithValue("@idusuario", ct.idusuario);
+
                 cm.CommandType = CommandType.StoredProcedure;
                 cnx.Open();
                 cm.ExecuteNonQuery();

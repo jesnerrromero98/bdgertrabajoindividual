@@ -129,10 +129,9 @@ namespace CapaDatos
                 cm = new SqlCommand("Recurs", cnx);
                 cm.Parameters.AddWithValue("@b", 4);
                 cm.Parameters.AddWithValue("@idrecursos", re.idrecursos);
-                cm.Parameters.AddWithValue("@nombrer", "");
-                cm.Parameters.AddWithValue("@codigo", "");
+                cm.Parameters.AddWithValue("@nombrer", re.nombrer);
+                cm.Parameters.AddWithValue("@codigo", re.codigo);
                 cm.Parameters.AddWithValue("@descripcion", re.descripcion);
-
                 cm.CommandType = CommandType.StoredProcedure;
                 cnx.Open();
                 cm.ExecuteNonQuery();
@@ -161,8 +160,8 @@ namespace CapaDatos
                 cm.Parameters.AddWithValue("@b", 5);
                 cm.Parameters.AddWithValue("@idrecursos", "");
                 cm.Parameters.AddWithValue("@nombrer", dato);
-                cm.Parameters.AddWithValue("@codigo", "");
-                cm.Parameters.AddWithValue("@descripcion", dato);
+                cm.Parameters.AddWithValue("@codigo", dato);
+                cm.Parameters.AddWithValue("@descripcion",dato);
 
                 cm.CommandType = CommandType.StoredProcedure;
                 cnx.Open();
@@ -183,7 +182,7 @@ namespace CapaDatos
             catch (Exception e)
             {
                 e.Message.ToString();
-                listaRecurso = null;
+                indicador =0;
             }
             finally
             {

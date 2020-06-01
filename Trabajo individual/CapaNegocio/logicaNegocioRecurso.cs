@@ -24,7 +24,7 @@ namespace CapaNegocio
         {
             return ar.eliminarRecurso(idrecurs);
         }
-        public int editarRecurso(Recurso re)
+        public int EditarRecurso(Recurso re)
         {
             return ar.EditarRecurso(re);
         }

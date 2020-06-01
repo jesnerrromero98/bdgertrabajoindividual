@@ -55,7 +55,7 @@ namespace capaPresentacionWF
                     objetoRecurso.codigo = textBoxCodigo.Text;
                     objetoRecurso.descripcion = textBoxDescripcion.Text;
 
-                    if (logicaNR.editarRecurso(objetoRecurso) > 0)
+                    if (logicaNR.EditarRecurso(objetoRecurso) > 0)
                     {
                         MessageBox.Show("Actualizado con éxito");
                         dataGridViewRecursos.DataSource = logicaNR.listarRecurso();
@@ -83,11 +83,51 @@ namespace capaPresentacionWF
             labelId.Visible = false;
             dataGridViewRecursos.DataSource = logicaNR.listarRecurso();
         }
+        private void buttonBuscar_Click(object sender, EventArgs e)
+        {
+            List<Recurso> recursos= logicaNR.BuscarRecurso(textBoxBuscar.Text);
+            dataGridViewRecursos.DataSource = recursos;
+        }
 
         private void buttonEditar_Click(object sender, EventArgs e)
         {
             textBoxId.Visible = true;
-            textBoxId.Enabled = true;
+            textBoxId.Enabled = false;
+            labelId.Visible = true;
+
+
+            textBoxId.Text = dataGridViewRecursos.CurrentRow.Cells["idrecursos"].Value.ToString();
+            textBoxNombrer.Text = dataGridViewRecursos.CurrentRow.Cells["nombrer"].Value.ToString();
+            textBoxCodigo.Text = dataGridViewRecursos.CurrentRow.Cells["codigo"].Value.ToString();
+            textBoxDescripcion.Text = dataGridViewRecursos.CurrentRow.Cells["descripcion"].Value.ToString();
+
+            tabRecursos.SelectedTab = tabPage1;
+            buttonGuardar.Text = "ACTUALIZAR";
+
+        }
+
+        private void buttonEliminar_Click(object sender, EventArgs e)
+        {
+            int codigoR = Convert.ToInt32(dataGridViewRecursos.CurrentRow.Cells["idrecursos"].Value.ToString());
+
+            try
+            {
+                if (logicaNR.eliminarRecurso(codigoR)>0)
+                {
+                    MessageBox.Show("Eliminado con éxito");
+                    dataGridViewRecursos.DataSource = logicaNR.listarRecurso();
+                }
+            }
+            catch 
+            {
+
+                MessageBox.Show("ERROR al eliminar recurso");
+            }
+        }
+
+        private void textBoxId_TextChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }

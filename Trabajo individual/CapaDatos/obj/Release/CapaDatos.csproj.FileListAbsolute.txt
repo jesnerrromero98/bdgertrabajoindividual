@@ -1,0 +1,9 @@
+C:\Users\Jesner romero\Pictures\ProgramcionBaseDato\PRODB\Trabajo individual\CapaDatos\bin\Release\CapaDatos.dll
+C:\Users\Jesner romero\Pictures\ProgramcionBaseDato\PRODB\Trabajo individual\CapaDatos\bin\Release\CapaDatos.pdb
+C:\Users\Jesner romero\Pictures\ProgramcionBaseDato\PRODB\Trabajo individual\CapaDatos\bin\Release\CapaEntidades.dll
+C:\Users\Jesner romero\Pictures\ProgramcionBaseDato\PRODB\Trabajo individual\CapaDatos\bin\Release\CapaEntidades.pdb
+C:\Users\Jesner romero\Pictures\ProgramcionBaseDato\PRODB\Trabajo individual\CapaDatos\obj\Release\CapaDatos.csprojAssemblyReference.cache
+C:\Users\Jesner romero\Pictures\ProgramcionBaseDato\PRODB\Trabajo individual\CapaDatos\obj\Release\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Jesner romero\Pictures\ProgramcionBaseDato\PRODB\Trabajo individual\CapaDatos\obj\Release\CapaDatos.csproj.CopyComplete
+C:\Users\Jesner romero\Pictures\ProgramcionBaseDato\PRODB\Trabajo individual\CapaDatos\obj\Release\CapaDatos.dll
+C:\Users\Jesner romero\Pictures\ProgramcionBaseDato\PRODB\Trabajo individual\CapaDatos\obj\Release\CapaDatos.pdb

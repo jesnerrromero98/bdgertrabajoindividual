@@ -46,6 +46,7 @@
     <Compile Include="accesoDatosRecurso.cs" />
     <Compile Include="accesoDatosSolicitud.cs" />
     <Compile Include="accesoDatosUsuario.cs" />
+    <Compile Include="accesosDatosRespaldoBD.cs" />
     <Compile Include="Conexion.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

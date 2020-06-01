@@ -14,7 +14,7 @@ namespace CapaNegocio
 
         public int insertarSolicitud(Solicitud so)
         {
-            return ads.insertarSolcitud(so);
+            return ads.insertarSolicitud(so);
         }
         public List<Solicitud> listarSolicitud()
         {

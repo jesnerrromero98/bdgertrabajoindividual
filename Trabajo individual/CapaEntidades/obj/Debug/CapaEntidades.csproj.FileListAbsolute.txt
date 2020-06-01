@@ -4,3 +4,9 @@ C:\Users\Elkin Maltez\source\repos\Ejemplo_ProgramacionBD\CapaEntidades\obj\Debu
 C:\Users\Elkin Maltez\source\repos\Ejemplo_ProgramacionBD\CapaEntidades\obj\Debug\CapaEntidades.dll
 C:\Users\Elkin Maltez\source\repos\Ejemplo_ProgramacionBD\CapaEntidades\obj\Debug\CapaEntidades.pdb
 C:\Users\Elkin Maltez\source\repos\Ejemplo_ProgramacionBD\CapaEntidades\obj\Debug\CapaEntidades.csprojAssemblyReference.cache
+C:\Users\Jesner romero\Pictures\ProgramcionBaseDato\PRODB\Trabajo individual\CapaEntidades\bin\Debug\CapaEntidades.dll
+C:\Users\Jesner romero\Pictures\ProgramcionBaseDato\PRODB\Trabajo individual\CapaEntidades\bin\Debug\CapaEntidades.pdb
+C:\Users\Jesner romero\Pictures\ProgramcionBaseDato\PRODB\Trabajo individual\CapaEntidades\obj\Debug\CapaEntidades.csprojAssemblyReference.cache
+C:\Users\Jesner romero\Pictures\ProgramcionBaseDato\PRODB\Trabajo individual\CapaEntidades\obj\Debug\CapaEntidades.csproj.CoreCompileInputs.cache
+C:\Users\Jesner romero\Pictures\ProgramcionBaseDato\PRODB\Trabajo individual\CapaEntidades\obj\Debug\CapaEntidades.dll
+C:\Users\Jesner romero\Pictures\ProgramcionBaseDato\PRODB\Trabajo individual\CapaEntidades\obj\Debug\CapaEntidades.pdb

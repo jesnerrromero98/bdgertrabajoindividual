@@ -7,3 +7,12 @@ C:\Users\Elkin Maltez\source\repos\Ejemplo_ProgramacionBD\CapaDatos\obj\Debug\Ca
 C:\Users\Elkin Maltez\source\repos\Ejemplo_ProgramacionBD\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
 C:\Users\Elkin Maltez\source\repos\Ejemplo_ProgramacionBD\CapaDatos\obj\Debug\CapaDatos.dll
 C:\Users\Elkin Maltez\source\repos\Ejemplo_ProgramacionBD\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\Jesner romero\Pictures\ProgramcionBaseDato\PRODB\Trabajo individual\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Jesner romero\Pictures\ProgramcionBaseDato\PRODB\Trabajo individual\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Jesner romero\Pictures\ProgramcionBaseDato\PRODB\Trabajo individual\CapaDatos\bin\Debug\CapaEntidades.dll
+C:\Users\Jesner romero\Pictures\ProgramcionBaseDato\PRODB\Trabajo individual\CapaDatos\bin\Debug\CapaEntidades.pdb
+C:\Users\Jesner romero\Pictures\ProgramcionBaseDato\PRODB\Trabajo individual\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+C:\Users\Jesner romero\Pictures\ProgramcionBaseDato\PRODB\Trabajo individual\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Jesner romero\Pictures\ProgramcionBaseDato\PRODB\Trabajo individual\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\Jesner romero\Pictures\ProgramcionBaseDato\PRODB\Trabajo individual\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Jesner romero\Pictures\ProgramcionBaseDato\PRODB\Trabajo individual\CapaDatos\obj\Debug\CapaDatos.pdb

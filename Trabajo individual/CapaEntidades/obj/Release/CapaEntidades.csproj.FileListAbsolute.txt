@@ -1,0 +1,5 @@
+C:\Users\Jesner romero\Pictures\ProgramcionBaseDato\PRODB\Trabajo individual\CapaEntidades\bin\Release\CapaEntidades.dll
+C:\Users\Jesner romero\Pictures\ProgramcionBaseDato\PRODB\Trabajo individual\CapaEntidades\bin\Release\CapaEntidades.pdb
+C:\Users\Jesner romero\Pictures\ProgramcionBaseDato\PRODB\Trabajo individual\CapaEntidades\obj\Release\CapaEntidades.csproj.CoreCompileInputs.cache
+C:\Users\Jesner romero\Pictures\ProgramcionBaseDato\PRODB\Trabajo individual\CapaEntidades\obj\Release\CapaEntidades.dll
+C:\Users\Jesner romero\Pictures\ProgramcionBaseDato\PRODB\Trabajo individual\CapaEntidades\obj\Release\CapaEntidades.pdb
